@@ -1,10 +1,8 @@
 ﻿using System;
 namespace Deliverable_3
 {
-
     class Program
     {
-
         static void Main(string[] args)
         {
             int input = 0;
